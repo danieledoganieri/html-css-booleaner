@@ -1,0 +1,22 @@
+body{
+    margin:0;
+    padding: 0;
+    
+}
+header{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(61, 61, 180);
+    background-image: url(..//img/pattern.png);
+    color: rgb(255, 255, 255);
+    
+  
+
+    }
+    #text{
+        vertical-align: sub;
+        
+    }
+
+
+
